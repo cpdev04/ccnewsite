@@ -115,6 +115,23 @@ img {
 .herotxt{
   font-size: 20px;
 }
+
+.slider1{
+  background-image: url("assets/img/thumb/homebanner-0001.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+
+}
+
+.slide2{
+  background-image: url("assets/img/thumb/home-003.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left center;
+
+
+}
 /* hero section */
 
 label {
@@ -3293,7 +3310,8 @@ body,
     top: 0;
     content: "\f123";
     font-family: 'Flaticon';
-    color: #1ebeb6;
+    /* color: #1ebeb6; */
+    color: #F05CA0;
 }
 
 .departments-area.bg-gray .departments-tabs li.nav-item a {
